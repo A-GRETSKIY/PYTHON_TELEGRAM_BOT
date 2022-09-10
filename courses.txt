@@ -1,0 +1,5 @@
+Front-End, https://prog.academy/frontend
+Web Design, https://prog.academy/web-design
+Python, https://prog.academy/python
+Java, https://prog.academy/java
+QA, https://prog.academy/qa
